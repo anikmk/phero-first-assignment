@@ -46,7 +46,7 @@
     flex-wrap: nowrap;
 }
 .header-title {
-    font-size: 60px;
+    font-size: 67px;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     color: #272727;
@@ -54,6 +54,7 @@
 }
 .header-img img {
     height: 650px;
+    margin-bottom: -2px;
     padding: 50px 150px 0px 0px
 }
 .header-contents {
@@ -160,7 +161,7 @@
 }
 .single-latest-product img {
     width: 80%;
-    height: auto;
+    height: 250px;
 }
 .single-latest-product:hover .hover{
     opacity: 1;
@@ -185,7 +186,7 @@
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
-    padding: 70px 0px 100px 0px;
+    padding: 50px 0px 100px 0px;
 }
 .dealoff {
     color: #ea4266;
